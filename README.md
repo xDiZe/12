@@ -1,5 +1,8 @@
-# 12
 
+# :space_invader: pyDiscordGrabber
+Simple program that receives a Discord Token.
 
-
-# !<img src="https://i.imgur.com/QUOuzcn.gif">
+# Usage example
+<p align="center">
+  <img src="https://i.imgur.com/QUOuzcn.gif">
+</p>
